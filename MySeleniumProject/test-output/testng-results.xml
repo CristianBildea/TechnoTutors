@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4146" started-at="2018-12-08T15:18:34Z" finished-at="2018-12-08T15:18:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4146" started-at="2018-12-08T15:18:34Z" finished-at="2018-12-08T15:18:38Z">
+      <class name="MyPackage.FacebookTestWithDataProvider">
+        <test-method status="PASS" signature="preRequisite()[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="preRequisite" is-config="true" duration-ms="7653" started-at="2018-12-08T15:18:26Z" finished-at="2018-12-08T15:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequisite -->
+        <test-method status="PASS" signature="enterFirstAndLastName(java.lang.String, java.lang.String)[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="enterFirstAndLastName" duration-ms="958" started-at="2018-12-08T15:18:35Z" data-provider="FaceBookLoginData" finished-at="2018-12-08T15:18:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cristian]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bildea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstAndLastName -->
+        <test-method status="PASS" signature="enterFirstAndLastName(java.lang.String, java.lang.String)[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="enterFirstAndLastName" duration-ms="472" started-at="2018-12-08T15:18:36Z" data-provider="FaceBookLoginData" finished-at="2018-12-08T15:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Crina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ciucoiu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstAndLastName -->
+        <test-method status="PASS" signature="enterFirstAndLastName(java.lang.String, java.lang.String)[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="enterFirstAndLastName" duration-ms="344" started-at="2018-12-08T15:18:37Z" data-provider="FaceBookLoginData" finished-at="2018-12-08T15:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Marta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstAndLastName -->
+        <test-method status="PASS" signature="enterFirstAndLastName(java.lang.String, java.lang.String)[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="enterFirstAndLastName" duration-ms="331" started-at="2018-12-08T15:18:37Z" data-provider="FaceBookLoginData" finished-at="2018-12-08T15:18:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ioan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bill]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstAndLastName -->
+        <test-method status="PASS" signature="enterFirstAndLastName(java.lang.String, java.lang.String)[pri:0, instance:MyPackage.FacebookTestWithDataProvider@5622fdf]" name="enterFirstAndLastName" duration-ms="312" started-at="2018-12-08T15:18:38Z" data-provider="FaceBookLoginData" finished-at="2018-12-08T15:18:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Powell]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstAndLastName -->
+      </class> <!-- MyPackage.FacebookTestWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
